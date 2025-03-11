@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Swing](https://img.shields.io/badge/GUI-Swing-orange)
 
-This is a **Java-based Student Management System** with a graphical user interface (GUI) built using Swing. The program allows users to add, view, and delete student records. It serves as a baseline implementation for a student management system and is designed to be used as a **challenge or assignment** for 2nd-year Computer Science students.
+This is a **Java-based Student Management System** with a graphical user interface (GUI) built using Swing. The program allows users to add, view, and delete student records. It serves as a baseline implementation for a student management system and is designed to be used as a **challenge or assignment** for Computer Science students.
 
 ## Features
 - **Add Student**: Add a new student with name, ID, and grade.
