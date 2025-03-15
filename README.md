@@ -26,7 +26,7 @@ This is a **Java-based Student Management System** with a graphical user interfa
    ```bash
    git clone https://github.com/your-username/Student-Management-System.git
    ```
-2. Open the project in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse).
+2. Open the project in your Java IDE.
 
 3. Compile and run StudentManagementSystem.java.
 
