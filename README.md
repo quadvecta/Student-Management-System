@@ -24,7 +24,7 @@ This is a **Java-based Student Management System** with a graphical user interfa
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Student-Management-System.git
+   git clone https://github.com/quadvecta/Student-Management-System.git
    ```
 2. Open the project in your Java IDE.
 
